@@ -1,6 +1,7 @@
 <div align="center">
     <img src="./assets/logo.svg" alt="Wowen Logo"/>
-    <p>
+    <p> </p>
+    <p>        
         Welcome to the official <a href=https://wowen.io>Wowen</a>  Hackathon GitHub page!
     </p>
 </div>
