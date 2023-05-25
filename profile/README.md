@@ -74,19 +74,15 @@ The jury will evaluate each project based on the following criteria:
 
 ## Practical aspect
 
-- Does the project fill a current existing gap in the blockchain space?
+- Is there a concrete use-case for the project ?
 
-- To what extent is the project economically justified?
-
-- Is the onboarding process simple enough?
+- How easy is it to onboard new users?
 
 ## Innovation aspect
 
 - How original and innovative is the project?
 
-- Does the project leverage new technologies?
-
-- Does the project enable new types of solutions to be created?
+- Does the project unlock new use cases of the technology ?
 
 # Contacts
 
