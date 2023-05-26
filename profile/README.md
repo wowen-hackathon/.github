@@ -18,7 +18,7 @@ The 1st Swiss Modular Blockchain Hackathon consists of two parts:
 
 1. Participants must fill in the following [Google Form](https://forms.gle/6oht3VDXbVNCfSD88), in order to be invited to [Wowen Hackathon](https://github.com/wowen-hackathon) GitHub Organisation.
 
-2. Hackers can group up and work in teams (up to 6 members) or solo to solve one of the challenges proposed.
+2. Hackers can group up and work in teams (up to 6 members) or solo to solve one of the challenges proposed. You can participate in only **one** team.
 
 3. Participants must commit their project to the previously assigned GitHub repository not later than 11th June 20 PM (Zürich time).
 
