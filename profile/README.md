@@ -93,3 +93,5 @@ Email: <a href=mailto:hackathon@wowen.io>hackathon@wowen.io</a>
 Twitter: [@wowen_network](https://twitter.com/wowen_network)
 
 Linkedin: https://www.linkedin.com/company/wowen-network/
+
+Telegram: [WowenNetwork](https://t.me/WowenNetwork/37)
