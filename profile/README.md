@@ -31,6 +31,20 @@ The 1st Swiss Modular Blockchain Hackathon consists of two parts:
 
     - Presentation (NOT mandatory).
 
+# Special hackathon day bounty
+
+Create a dApp on Wowen Modular Blockchain for claiming the 100 Hacker NFT Badges!
+
+- Bounty prize: 200 CHF + crate of beers.
+
+- Submission deadline 27/05/2023 before 16:00 PM, if you want to participate to this special bounty, ask Roberto to create a special repository for you or your team!
+
+- Badges available at [NFTs](https://api.wowen.io/manager/static/nft/hackathon/) (append X.png, where X is the NFT number. E.g. https://api.wowen.io/manager/static/nft/hackathon/1.png).
+
+- Winner will be chosen based dApp functionality, usability & design (e.g., NFT visible from the dApp, automatic add to MetaMask, etc.).
+
+- Winner announcement: 17:30 PM.
+
 # Challenges
 
 ## Create your dream dApp
@@ -69,23 +83,20 @@ The jury will evaluate each project based on the following criteria:
 
 - How well does the project leverage technology?
 
-- How well and elegant is the project designed?
+- Is there a high-quality working prototype ?
+
 
 ## Practical aspect
 
-- Does the project fill a current existing gap in the blockchain space?
+- Is there a concrete use-case for the project ?
 
-- To what extent is the project economically justified?
-
-- Is the onboarding process simple enough?
+- How easy is it to onboard new users?
 
 ## Innovation aspect
 
 - How original and innovative is the project?
 
-- Does the project leverage new technologies?
-
-- Does the project enable new types of solutions to be created?
+- Does the project unlock new use cases of the technology ?
 
 # Contacts
 
