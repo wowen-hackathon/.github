@@ -1,6 +1,7 @@
 <div align="center">
     <img src="./assets/logo.svg" alt="Wowen Logo"/>
-    <p>
+    <p> </p>
+    <p>        
         Welcome to the official <a href=https://wowen.io>Wowen</a>  Hackathon GitHub page!
     </p>
 </div>
@@ -17,7 +18,7 @@ The 1st Swiss Modular Blockchain Hackathon consists of two parts:
 
 1. Participants must fill in the following [Google Form](https://forms.gle/6oht3VDXbVNCfSD88), in order to be invited to [Wowen Hackathon](https://github.com/wowen-hackathon) GitHub Organisation.
 
-2. Hackers can group up and work in teams (up to 6 members) or solo to solve one of the challenges proposed.
+2. Hackers can group up and work in teams (up to 6 members) or solo to solve one of the challenges proposed. You can participate in only **one** team.
 
 3. Participants must commit their project to the previously assigned GitHub repository not later than 11th June 20 PM (Zürich time).
 
@@ -83,8 +84,7 @@ The jury will evaluate each project based on the following criteria:
 
 - How well does the project leverage technology?
 
-- Is there a high-quality working prototype ?
-
+- Is there a high-quality working prototype?
 
 ## Practical aspect
 
@@ -96,7 +96,7 @@ The jury will evaluate each project based on the following criteria:
 
 - How original and innovative is the project?
 
-- Does the project unlock new use cases of the technology ?
+- Does the project unlock new use cases of the technology?
 
 # Contacts
 
@@ -107,3 +107,5 @@ Email: <a href=mailto:hackathon@wowen.io>hackathon@wowen.io</a>
 Twitter: [@wowen_network](https://twitter.com/wowen_network)
 
 Linkedin: https://www.linkedin.com/company/wowen-network/
+
+Telegram: [WowenNetwork](https://t.me/WowenNetwork/37)
