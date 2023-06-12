@@ -20,7 +20,7 @@ The 1st Swiss Modular Blockchain Hackathon consists of two parts:
 
 2. Hackers can group up and work in teams (up to 6 members) or solo to solve one of the challenges proposed. You can participate in only **one** team.
 
-3. Participants must commit their project to the previously assigned GitHub repository not later than 11th June 20 PM (Zürich time).
+3. Participants must commit their project to the previously assigned GitHub repository not later than 18th June 20 PM (Zürich time).
 
 4. Each project should include:
 
