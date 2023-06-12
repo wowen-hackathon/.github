@@ -12,7 +12,7 @@ The 1st Swiss Modular Blockchain Hackathon consists of two parts:
 
 1. Full day in person kick-off day in Zürich (Introducing to Wowen & head-first start into your projects, hacking, community event).
 
-2. Two weeks ongoing coding and submission period, starting Sunday 28th May, until 11th June 20 PM (Zürich time) submission deadline.
+2. Two weeks ongoing coding and submission period, starting Sunday 28th May, until 18th June 20 PM (Zürich time) submission deadline.
 
 # Rules
 
